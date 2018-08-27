@@ -2,6 +2,8 @@
 
 ![Image text](https://github.com/LeonJinC/defect_detect/blob/master/result.bmp)
 
+Environment:Win10+VS2015+Opencv2.4.9
+
 The whole algorithm adopts online detection framework and target update method based on Kalman filtering.
 
 The traditional defect detection method based on edge detection is difficult to enhance the subtle and complicated defects.
