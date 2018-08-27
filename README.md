@@ -4,7 +4,7 @@ The whole algorithm adopts online detection framework and target update method b
 
 The traditional defect detection method based on edge detection is difficult to enhance the subtle and complicated defects.
 
-Using 360бу dynamic lighting solutions for detection and edge detector based on the Hessian matrix of image preprocessing, 
+Using 360 degrees dynamic lighting solutions for detection and edge detector based on the Hessian matrix of image preprocessing, 
 
 threshold in sequence image, the minimum target defects outsourcing rectangular two-dimensional point sets modeling object, 
 
@@ -13,3 +13,4 @@ through the model initialization vector, the adaptive change model, update the e
 so as to achieve the goal of detection and identification of defects.
 
 
+See the blog for the full implementation idea  https://blog.csdn.net/jin739738709
