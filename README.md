@@ -1,6 +1,6 @@
 # defect_detect
 
-![Image text](https://github.com/LeonJinC/defect_detect/blob/master/result.bmp)
+![image](https://github.com/LeonJinC/defect_detect/blob/master/result.jpg)
 
 Environment:Win10+VS2015+Opencv2.4.9
 
@@ -17,4 +17,11 @@ through the model initialization vector, the adaptive change model, update the e
 so as to achieve the goal of detection and identification of defects.
 
 
-See the blog for the full implementation idea  https://blog.csdn.net/jin739738709
+
+
+See the blog for the full implementation idea https://blog.csdn.net/jin739738709
+
+
+
+
+
